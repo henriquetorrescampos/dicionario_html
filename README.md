@@ -1,2 +1,3 @@
 # dicionario_html
-Tarefa Senai CamedRepositório no GitHub
+Tarefa Senai Camed
+Repositório no GitHub
