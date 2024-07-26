@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/tags.html"
+status = 200
